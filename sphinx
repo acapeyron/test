@@ -168,7 +168,7 @@ class ExampleError(Exception):
 
     Attributes:
         msg (str): Human readable string describing the exception.
-        code (int): Exception error code.
+        code (int): Exception error code
 
     """
 
