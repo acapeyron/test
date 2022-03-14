@@ -25,7 +25,7 @@ Attributes:
 
 Todo:
     * For module TODOs
-    * You have to also use ``sphinx.ext.todo`` extension
+    * You have to also use ``sphinx.ext.todo`` extensiona
 
 .. _Google Python Style Guide:
    https://google.github.io/styleguide/pyguide.html
